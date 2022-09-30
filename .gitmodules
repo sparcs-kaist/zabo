@@ -1,0 +1,6 @@
+[submodule "front"]
+	path = front
+	url = https://github.com/sparcs-kaist/zabo-front-reactjs.git
+[submodule "server"]
+	path = server
+	url = https://github.com/sparcs-kaist/zabo-server-nodejs.git
